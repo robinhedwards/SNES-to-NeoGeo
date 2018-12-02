@@ -4,10 +4,20 @@ SNES to Neo Geo
 This is an Arduino project which allows you to interface a SNES or Super Famicom controller
 (or a clone) to a Neo Geo style DB15 connector.
 
+I created this for my CMVS project (consolizing a MVS Neo Geo arcade motherboard), and I had
+some nice, working SNES controllers that I wanted to use. SNES controllers are quite a good fit
+for the Neo Geo because the button colours match (well, except on the purple USA ones!).
+
+It looked easy enough to rewire the controllers and attach a new socket, but I wanted something
+that left them in their original state so I could still use them on my SNES.
+
 ![Image](ProMicro.jpg?raw=true)
 
 This shows a completed project on a cheap Arduino Pro Micro clone wired up to a SNES female
 socket and female DB15 for easy connections.
+
+SNES female controller sockets are available on eBay for a couple of pounds, and a Pro Micro
+clone costs about the same, so the total cost of the project is only about five pounds.
 
 SNES Controller -> Arduino
 --------------------------
