@@ -45,7 +45,7 @@ Arduino -> DB15
  13 (A)        D8
  5 (B)         D9
  12 (C)        D10
- 9 (D)         D11
+ 4 (D)         D11
 */
 
 #define PIN_SELECT  2
