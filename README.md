@@ -11,9 +11,9 @@ for the Neo Geo because the button colours match (well, except on the purple USA
 It looked easy enough to rewire the controllers and attach a new socket, but I wanted something
 that left them in their original state so I could still use them on my SNES.
 
-![Image](ProMicro.jpg?raw=true)
+![Image](ProMini.jpg?raw=true)
 
-This shows a completed project on a cheap Arduino Pro Micro clone wired up to a SNES female
+This shows a completed project on a cheap Arduino Pro Mini clone wired up to a SNES female
 socket and female DB15 for easy connections.
 
 SNES female controller sockets are available on eBay for a couple of pounds, and a Pro Micro
@@ -60,3 +60,19 @@ Arduino -> DB15
  12 (C)        D10
  4 (D)         D11
 ```
+
+3d printed case
+---------------
+
+I've designed a simple box for the device that can be 3d printed. It fits the Pro Mini inside
+along with the SNES socket and a cable grip for a DB15 cable.
+
+The case is designed to fit a cable grip extracted from a UK plag with 16mm spacing between
+the grip screws.
+
+I'll post the STL files for printing shortly - in the meantime please get in touch if you want a copy.
+
+![Image](3dPrint.jpg?raw=true)
+
+![Image](3dPrint2.jpg?raw=true)
+
