@@ -67,8 +67,8 @@ Arduino -> DB15
 I've designed a simple box for the device that can be 3d printed. It fits the Pro Mini inside
 along with the SNES socket and a cable grip for a DB15 cable.
 
-The case is designed to fit a cable grip extracted from a UK plag with 16mm spacing between
-the grip screws.
+The case is designed to fit a cable grip extracted from a UK mains plug (with 16mm spacing between
+the grip screws).
 
 I'll post the STL files for printing shortly - in the meantime please get in touch if you want a copy.
 
