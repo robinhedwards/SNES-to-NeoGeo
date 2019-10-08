@@ -70,7 +70,8 @@ along with the SNES socket and a cable grip for a DB15 cable.
 The case is designed to fit a cable grip extracted from a UK mains plug (with 16mm spacing between
 the grip screws).
 
-I'll post the STL files for printing shortly - in the meantime please get in touch if you want a copy.
+The STL files are included here along with the source SCAD files if you need to make any tweaks to
+the design.
 
 ![Image](3dPrint.jpg?raw=true)
 
