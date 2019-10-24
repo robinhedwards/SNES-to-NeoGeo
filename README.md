@@ -13,10 +13,10 @@ that left them in their original state so I could still use them on my SNES.
 
 ![Image](ProMini.jpg?raw=true)
 
-This shows a completed project on a cheap Arduino Pro Mini clone wired up to a SNES female
+This shows a completed project on a cheap Arduino Pro Mini (5v) clone wired up to a SNES female
 socket and female DB15 for easy connections.
 
-SNES female controller sockets are available on eBay for a couple of pounds, and a Pro Micro
+SNES female controller sockets are available on eBay for a couple of pounds, and a Pro Mini
 clone costs about the same, so the total cost of the project is only about five pounds.
 
 SNES Controller -> Arduino
